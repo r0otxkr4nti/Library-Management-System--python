@@ -1,3 +1,4 @@
 # Library-Management-System--python
-<br>
 Author - N Kranti Kiran
+<br>
+This project is coded in Python.
